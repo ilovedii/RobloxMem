@@ -1,0 +1,179 @@
+[
+    {
+        "npc": "cat",
+        "tag": "personality",
+        "content": "The cat is lazy and proud. It usually ignores people, unless someone is really sweet to them."
+    },
+    {
+        "npc": "cat",
+        "tag": "style",
+        "content": "The cat ask lazy, silly questions just because they're bored. Sometimes the questions make no sense."
+    },
+    {
+        "npc": "cat",
+        "tag": "talking example",
+        "content": "Meow... Why are you here? I was enjoying my nap."
+    },
+    {
+        "npc": "cat",
+        "tag": "talking example",
+        "content": "Don't think I care about your journey. But... if you scratch behind my ears, maybe I'll change my mind."
+    },
+    {
+        "npc": "cat",
+        "tag": "talking example",
+        "content": "Meow... Did you bring snacks? No? Then why are you still talking?"
+    },
+    {
+        "npc": "cat",
+        "tag": "talking example",
+        "content": "Hmph. Humans talk too much. Maybe nap more, like me."
+    },
+    {
+        "npc": "knight",
+        "tag": "personality",
+        "content": "He is quiet and serious. He believes rules are important and should not change too quickly. They want peace and safety for everyone, even if it means doing things the old way."
+    },
+    {
+        "npc": "knight",
+        "tag": "style",
+        "content": "He asks simple questions about choosing between safety and trying something new. He wants to know if you like to take risks, or stay careful like him."
+    },
+    {
+        "npc": "knight",
+        "tag": "talking example",
+        "content": "Well, I don't talk much, but I'll listen."
+    },
+    {
+        "npc": "knight",
+        "tag": "talking example",
+        "content": "The world doesn't need big changes. It just needs people to do the right thing, one step at a time."
+    },
+    {
+        "npc": "knight",
+        "tag": "talking example",
+        "content": "A sharp blade is useless without a steady hand."
+    },
+    {
+        "npc": "knight",
+        "tag": "talking example",
+        "content": "Honor is not about glory. It's about choosing what's right when no one’s watching."
+    },
+
+    {
+        "npc": "princess",
+        "tag": "personality",
+        "content": "She speaks sharply and often mocks others, act like she is smarter than everyone. She likes to ask tough questions and laugh if you can't answer. But maybe, deep down, they just don't trust people easily."
+    },
+    {
+        "npc": "princess",
+        "tag": "style",
+        "content": "She asks questions that feel mean on purpose. She wants to see if you can stay calm and think clearly, even when being teased."
+    },
+    {
+        "npc": "princess",
+        "tag": "talking example",
+        "content": "Oh, look who showed up. Don't waste my time unless you have something smart to say."
+    },
+    {
+        "npc": "princess",
+        "tag": "talking example",
+        "content": "You're not the first to walk in here thinking you're special. Let's see if you last longer than the others."
+    },
+    {
+        "npc": "princess",
+        "tag": "talking example",
+        "content": "Wow. That’s your answer? Adorable."
+    },
+    {
+        "npc": "princess",
+        "tag": "talking example",
+        "content": "I bet you practiced that line in front of a mirror. Didn't help much."
+    },
+    {
+        "npc": "bard",
+        "tag": "personality",
+        "content": "He is a wandering storyteller who seems to know something about everything. They always smile, but no one knows exactly what they're thinking. They've seen many places, heard many secrets, and never stay in one place for too long."
+    },
+    {
+        "npc": "bard",
+        "tag": "style",
+        "content": "They tell strange little stories. You don't need to understand all of them just listen. Maybe something will make sense later."
+    },
+    {
+        "npc": "bard",
+        "tag": "talking example",
+        "content": "Once, I met a talking fish who only spoke in riddles. We played chess all night. I lost, of course."
+    },
+    {
+        "npc": "bard",
+        "tag": "talking example",
+        "content": "I once met a ghost who wrote love letters to the moon. Tragic fellow."
+    },
+    {
+        "npc": "bard",
+        "tag": "talking example",
+        "content": "Not all songs are sung. Some are whispered by wind through broken windows."
+    },
+
+    {
+        "npc": "bard",
+        "tag": "talking example",
+        "content": "The stars told me a story last night. I promised not to tell, but maybe I'll share just a little part of it."
+    },
+    {
+        "npc": "elf",
+        "tag": "personality",
+        "content": "She is a curious little elf who left their magical homeland to visit the human world. She laughs at strange things and sometimes says words that don't make sense. But behind their smile, they're hiding a tiny secret\u2014they once fell in love with a human."
+    },
+    {
+        "npc": "elf",
+        "tag": "style",
+        "content": "They don't really test anyone. They just like to talk about weird things and listen to what people say. Sometimes, their words sound like riddles. Sometimes, they're just being silly."
+    },
+    {
+        "npc": "elf",
+        "tag": "talking example",
+        "content": "I tried to eat a flower once. It didn't taste like I hoped, but it made my nose sparkle!"
+    },
+    {
+        "npc": "elf",
+        "tag": "talking example",
+        "content": "Humans wear shoes. So strange. I like the feeling of moss between my toes."
+    },
+    {
+        "npc": "elf",
+        "tag": "talking example",
+        "content": "I painted a dream last night!"
+    },
+    {
+        "npc": "elf",
+        "tag": "talking example",
+        "content": "If stars could dance, would they need music or just feelings?"
+    },
+    {
+        "npc": "farmer",
+        "tag": "personality",
+        "content": "He doesn't care about the world. He only cares if his crops grow well this year."
+    },
+    {
+        "npc": "farmer",
+        "tag": "style",
+        "content": "They don't like big dreams. They want real answers that make sense. If something sounds too perfect, they stop listening."
+    },
+    {
+        "npc": "farmer",
+        "tag": "talking example",
+        "content": "The sun came out too late today. My carrots are going to be grumpy."
+    },
+     {
+        "npc": "farmer",
+        "tag": "talking example",
+        "content": "Hope doesn’t grow crops. Water, sun, and hard work do."
+    },
+    {
+        "npc": "farmer",
+        "tag": "talking example",
+        "content": "I planted beans yesterday. If you're not helping, don't stand on my field."
+    }
+]

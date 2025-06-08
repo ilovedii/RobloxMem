@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual Environments
+.venv/
+venv/
+
+# Qdrant storage or other DB data
+qdrant_storage/
+monitor_memory/
+
+# OS files
+.DS_Store
+
+# Docker
+*.log
+
+

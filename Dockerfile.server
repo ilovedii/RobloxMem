@@ -1,0 +1,15 @@
+# Dockerfile.server
+FROM python:3.10
+
+WORKDIR /app
+
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+COPY server.py .
+COPY monitorMem.py .
+COPY npc_memory_dataset.json .
+RUN mkdir -p /app/monitor_memory
+
+CMD ["python", "server.py"]
+

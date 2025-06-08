@@ -1,0 +1,35 @@
+services:
+  qdrant:
+    image: qdrant/qdrant
+    container_name: qdrant_local
+    ports:
+      - "6333:6333"
+      - "6334:6334"
+    volumes:
+      - ./qdrant_storage:/qdrant/storage
+    restart: unless-stopped
+    networks:
+      - robloxnet
+
+  server:
+    build:
+      context: ./
+      dockerfile: Dockerfile.server
+    container_name: rag_server
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./monitor_memory:/app/monitor_memory
+    depends_on:
+      - qdrant
+    restart: unless-stopped
+    networks:
+      - robloxnet
+
+networks:
+  robloxnet:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.25.0.0/16
+
