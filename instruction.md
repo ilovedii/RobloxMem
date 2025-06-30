@@ -12,7 +12,12 @@
 # python3 -m venv .venv
 # source .venv/bin/activate
 
+# docker network ls
+# docker network prune
+
 # docker compose ps
+# docker ps -a
+
 # docker compose up -d
 # docker compose down
 # docker compose up -d --build
